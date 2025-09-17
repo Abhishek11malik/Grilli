@@ -5,10 +5,6 @@
   Responsive for all devices, built using **HTML, CSS, and JavaScript**.
 
   <br/>
-
-  🔗 <a href="https://codewithsadee.github.io/grilli/" target="_blank"><strong>➥ Live Demo</strong></a>
-</div>
-
 ---
 
 ## 📸 Demo Screenshots  
