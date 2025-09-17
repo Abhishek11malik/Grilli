@@ -1,16 +1,45 @@
-
 <div align="center">
-<h2 align="center">Grilli - Restaurant Website </h2>
+  <h2 align="center">🍴 Grilli - Restaurant Website</h2>
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Grilli is a fully responsive restaurant website, <br/>
+  Responsive for all devices, built using **HTML, CSS, and JavaScript**.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <br/>
 
+  🔗 <a href="https://codewithsadee.github.io/grilli/" target="_blank"><strong>➥ Live Demo</strong></a>
 </div>
 
-<br />
+---
 
-### Demo Screeshots
-![Grilli Desktop Demo](./readme-images/SSSSS1.png "Desktop Demo")
-![Grilli Desktop Demo](./readme-images/SSSSS2.png "Menu")
-![Grilli Desktop Demo](./readme-images/SSSSS3.png "Reservation Page")
+## 📸 Demo Screenshots  
+
+### 🖥️ Desktop View  
+![Desktop Demo](./SSSSS1.png "Desktop Demo")
+
+### 📋 Menu Page  
+![Menu Page](./SSSSS2.png "Menu Page")
+
+### 📅 Reservation Page  
+![Reservation Page](./SSSSS3.png "Reservation Page")
+
+---
+
+## 🚀 Features
+✔️ Fully responsive design  
+✔️ Modern UI/UX  
+✔️ Smooth animations  
+✔️ Easy customization  
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
+
+---
+
+## 📂 How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Abhishek11malik/Grilli.git
